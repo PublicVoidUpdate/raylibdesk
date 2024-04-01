@@ -2,8 +2,8 @@
 a desktop environment built on top of openbox, made with raylib
 Alpha prerelease 0.0.0 not suitable for use yet
 
-Features:
-Battery percent detection and display
+Features: \n
+Battery percent detection and display \n
 Date Time Display
 Start Menu Button and basic menu
 Desktop with Wallpaper display
