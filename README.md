@@ -1,25 +1,25 @@
-# raylibdesk
-a desktop environment built on top of openbox, made with raylib
-Alpha prerelease 0.0.0 not suitable for use yet
+# raylibdesk <br>
+a desktop environment built on top of openbox, made with raylib <br>
+Alpha prerelease 0.0.0 not suitable for use yet <br>
 
-Features: \n
-Battery percent detection and display \n
-Date Time Display
-Start Menu Button and basic menu
-Desktop with Wallpaper display
+Features: <br>
+Battery percent detection and display <br>
+Date Time Display <br>
+Start Menu Button and basic menu <br>
+Desktop with Wallpaper display <br>
 
-Future Plans:
-icons and shortcuts (desktop)
-widgets (desktop)
-use last window alloted for context menus
-app detection and display (Start menu)
-shortcuts (taskbar)
-window managing (taskbar)
-resizable start menu/taskbar
-configurale font size
+Future Plans: <br>
+icons and shortcuts (desktop) <br>
+widgets (desktop) <br>
+use last window alloted for context menus <br>
+app detection and display (Start menu) <br>
+shortcuts (taskbar) <br>
+window managing (taskbar) <br>
+resizable start menu/taskbar <br>
+configurale font size <br>
 
-Low Priority Plans:
-ini or xml settings
-configurable wallpaper (right now you replace the file)
-Mobile config (smaller taskbar, no shortcuts, specialized desktop, startmenu fullscreen and specialised)
-custom script based plugins
+Low Priority Plans: <br>
+ini or xml settings <br>
+configurable wallpaper (right now you replace the file) <br>
+Mobile config (smaller taskbar, no shortcuts, specialized desktop, startmenu fullscreen and specialised) <br>
+custom script based plugins <br>
